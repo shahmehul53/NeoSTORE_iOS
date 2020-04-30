@@ -10,11 +10,38 @@
 		E90E8F392457F5AE0087A3F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F382457F5AE0087A3F6 /* AppDelegate.swift */; };
 		E90E8F3B2457F5AE0087A3F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F3A2457F5AE0087A3F6 /* SceneDelegate.swift */; };
 		E90E8F3D2457F5AE0087A3F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F3C2457F5AE0087A3F6 /* ViewController.swift */; };
-		E90E8F402457F5AE0087A3F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F3E2457F5AE0087A3F6 /* Main.storyboard */; };
 		E90E8F422457F5B20087A3F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F412457F5B20087A3F6 /* Assets.xcassets */; };
 		E90E8F452457F5B20087A3F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F432457F5B20087A3F6 /* LaunchScreen.storyboard */; };
 		E90E8F502457F5B20087A3F6 /* NeoSTORE_MehulTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F4F2457F5B20087A3F6 /* NeoSTORE_MehulTests.swift */; };
 		E90E8F5B2457F5B20087A3F6 /* NeoSTORE_MehulUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F5A2457F5B20087A3F6 /* NeoSTORE_MehulUITests.swift */; };
+		E90E8F6C2457F6FD0087A3F6 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F6B2457F6FD0087A3F6 /* CustomTextField.swift */; };
+		E90E8F6E2457F7180087A3F6 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F6D2457F7180087A3F6 /* CustomButton.swift */; };
+		E90E8F702457F7300087A3F6 /* CustomDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F6F2457F7300087A3F6 /* CustomDatePicker.swift */; };
+		E90E8F852457F7710087A3F6 /* GOTHAM-LIGHT_0.OTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F732457F76F0087A3F6 /* GOTHAM-LIGHT_0.OTF */; };
+		E90E8F862457F7710087A3F6 /* GOTHAM-BLACK.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F742457F76F0087A3F6 /* GOTHAM-BLACK.TTF */; };
+		E90E8F872457F7710087A3F6 /* GOTHAM-BOOKITALIC_0.OTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F752457F76F0087A3F6 /* GOTHAM-BOOKITALIC_0.OTF */; };
+		E90E8F882457F7710087A3F6 /* GOTHAM-BOLDITALIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F762457F76F0087A3F6 /* GOTHAM-BOLDITALIC.TTF */; };
+		E90E8F892457F7710087A3F6 /* GOTHAM-ULTRA.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F772457F7700087A3F6 /* GOTHAM-ULTRA.TTF */; };
+		E90E8F8A2457F7710087A3F6 /* GOTHAM-ULTRAITALIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F782457F7700087A3F6 /* GOTHAM-ULTRAITALIC.TTF */; };
+		E90E8F8B2457F7710087A3F6 /* GOTHAM-MEDIUM.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F792457F7700087A3F6 /* GOTHAM-MEDIUM.TTF */; };
+		E90E8F8C2457F7710087A3F6 /* Gotham-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F7A2457F7700087A3F6 /* Gotham-Book.otf */; };
+		E90E8F8D2457F7710087A3F6 /* GOTHAM-THINITALIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F7B2457F7700087A3F6 /* GOTHAM-THINITALIC.TTF */; };
+		E90E8F8E2457F7710087A3F6 /* GOTHAM-MEDIUMITALIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F7C2457F7700087A3F6 /* GOTHAM-MEDIUMITALIC.TTF */; };
+		E90E8F8F2457F7710087A3F6 /* GOTHAM-XLIGHT.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F7D2457F7700087A3F6 /* GOTHAM-XLIGHT.TTF */; };
+		E90E8F902457F7710087A3F6 /* GOTHAM-BOLD_0.OTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F7E2457F7700087A3F6 /* GOTHAM-BOLD_0.OTF */; };
+		E90E8F912457F7710087A3F6 /* GOTHAM-LIGHTITALIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F7F2457F7700087A3F6 /* GOTHAM-LIGHTITALIC.TTF */; };
+		E90E8F922457F7710087A3F6 /* GOTHAM-BOLD.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F802457F7700087A3F6 /* GOTHAM-BOLD.TTF */; };
+		E90E8F932457F7710087A3F6 /* GOTHAM-BLACKITALIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F812457F7700087A3F6 /* GOTHAM-BLACKITALIC.TTF */; };
+		E90E8F942457F7710087A3F6 /* GOTHAM-XLIGHTITALIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F822457F7700087A3F6 /* GOTHAM-XLIGHTITALIC.TTF */; };
+		E90E8F952457F7710087A3F6 /* GOTHAM-LIGHT.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F832457F7700087A3F6 /* GOTHAM-LIGHT.TTF */; };
+		E90E8F962457F7710087A3F6 /* GOTHAM-THIN.TTF in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F842457F7710087A3F6 /* GOTHAM-THIN.TTF */; };
+		E90E8F9A2457F8390087A3F6 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F982457F8390087A3F6 /* LoginViewController.swift */; };
+		E90E8F9B2457F8390087A3F6 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E90E8F992457F8390087A3F6 /* LoginViewController.xib */; };
+		E90E8F9E2457FA800087A3F6 /* APIMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F9D2457FA800087A3F6 /* APIMethods.swift */; };
+		E90E8FA02457FA900087A3F6 /* APIServiceKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8F9F2457FA900087A3F6 /* APIServiceKeys.swift */; };
+		E90E8FA22457FACD0087A3F6 /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8FA12457FACD0087A3F6 /* Validation.swift */; };
+		E90E8FA42457FF650087A3F6 /* LoginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8FA32457FF650087A3F6 /* LoginModel.swift */; };
+		E90E8FA62457FF730087A3F6 /* RegisterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E8FA52457FF730087A3F6 /* RegisterModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +66,6 @@
 		E90E8F382457F5AE0087A3F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E90E8F3A2457F5AE0087A3F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E90E8F3C2457F5AE0087A3F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E90E8F3F2457F5AE0087A3F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E90E8F412457F5B20087A3F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E90E8F442457F5B20087A3F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E90E8F462457F5B20087A3F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -49,6 +75,34 @@
 		E90E8F562457F5B20087A3F6 /* NeoSTORE_MehulUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NeoSTORE_MehulUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E90E8F5A2457F5B20087A3F6 /* NeoSTORE_MehulUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeoSTORE_MehulUITests.swift; sourceTree = "<group>"; };
 		E90E8F5C2457F5B20087A3F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E90E8F6B2457F6FD0087A3F6 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		E90E8F6D2457F7180087A3F6 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		E90E8F6F2457F7300087A3F6 /* CustomDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDatePicker.swift; sourceTree = "<group>"; };
+		E90E8F732457F76F0087A3F6 /* GOTHAM-LIGHT_0.OTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-LIGHT_0.OTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-LIGHT_0.OTF"; sourceTree = "<group>"; };
+		E90E8F742457F76F0087A3F6 /* GOTHAM-BLACK.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-BLACK.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-BLACK.TTF"; sourceTree = "<group>"; };
+		E90E8F752457F76F0087A3F6 /* GOTHAM-BOOKITALIC_0.OTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-BOOKITALIC_0.OTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-BOOKITALIC_0.OTF"; sourceTree = "<group>"; };
+		E90E8F762457F76F0087A3F6 /* GOTHAM-BOLDITALIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-BOLDITALIC.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-BOLDITALIC.TTF"; sourceTree = "<group>"; };
+		E90E8F772457F7700087A3F6 /* GOTHAM-ULTRA.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-ULTRA.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-ULTRA.TTF"; sourceTree = "<group>"; };
+		E90E8F782457F7700087A3F6 /* GOTHAM-ULTRAITALIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-ULTRAITALIC.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-ULTRAITALIC.TTF"; sourceTree = "<group>"; };
+		E90E8F792457F7700087A3F6 /* GOTHAM-MEDIUM.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-MEDIUM.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-MEDIUM.TTF"; sourceTree = "<group>"; };
+		E90E8F7A2457F7700087A3F6 /* Gotham-Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gotham-Book.otf"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/Gotham-Book.otf"; sourceTree = "<group>"; };
+		E90E8F7B2457F7700087A3F6 /* GOTHAM-THINITALIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-THINITALIC.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-THINITALIC.TTF"; sourceTree = "<group>"; };
+		E90E8F7C2457F7700087A3F6 /* GOTHAM-MEDIUMITALIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-MEDIUMITALIC.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-MEDIUMITALIC.TTF"; sourceTree = "<group>"; };
+		E90E8F7D2457F7700087A3F6 /* GOTHAM-XLIGHT.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-XLIGHT.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-XLIGHT.TTF"; sourceTree = "<group>"; };
+		E90E8F7E2457F7700087A3F6 /* GOTHAM-BOLD_0.OTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-BOLD_0.OTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-BOLD_0.OTF"; sourceTree = "<group>"; };
+		E90E8F7F2457F7700087A3F6 /* GOTHAM-LIGHTITALIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-LIGHTITALIC.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-LIGHTITALIC.TTF"; sourceTree = "<group>"; };
+		E90E8F802457F7700087A3F6 /* GOTHAM-BOLD.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-BOLD.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-BOLD.TTF"; sourceTree = "<group>"; };
+		E90E8F812457F7700087A3F6 /* GOTHAM-BLACKITALIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-BLACKITALIC.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-BLACKITALIC.TTF"; sourceTree = "<group>"; };
+		E90E8F822457F7700087A3F6 /* GOTHAM-XLIGHTITALIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-XLIGHTITALIC.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-XLIGHTITALIC.TTF"; sourceTree = "<group>"; };
+		E90E8F832457F7700087A3F6 /* GOTHAM-LIGHT.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-LIGHT.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-LIGHT.TTF"; sourceTree = "<group>"; };
+		E90E8F842457F7710087A3F6 /* GOTHAM-THIN.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GOTHAM-THIN.TTF"; path = "../../../../../../Volumes/@@@MEHUL@@@/Mehul DATA IMP/Office/NeoStore 11.49.00 AM/NeoStore/Resources/Fonts/GOTHAM-THIN.TTF"; sourceTree = "<group>"; };
+		E90E8F982457F8390087A3F6 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		E90E8F992457F8390087A3F6 /* LoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
+		E90E8F9D2457FA800087A3F6 /* APIMethods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIMethods.swift; sourceTree = "<group>"; };
+		E90E8F9F2457FA900087A3F6 /* APIServiceKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServiceKeys.swift; sourceTree = "<group>"; };
+		E90E8FA12457FACD0087A3F6 /* Validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validation.swift; sourceTree = "<group>"; };
+		E90E8FA32457FF650087A3F6 /* LoginModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginModel.swift; sourceTree = "<group>"; };
+		E90E8FA52457FF730087A3F6 /* RegisterModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,10 +153,14 @@
 		E90E8F372457F5AE0087A3F6 /* NeoSTORE_Mehul */ = {
 			isa = PBXGroup;
 			children = (
+				E90E8F9C2457FA450087A3F6 /* Utilities */,
+				E90E8F712457F74A0087A3F6 /* Resources */,
+				E90E8F6A2457F6CF0087A3F6 /* IBDesignable */,
+				E90E8F692457F6440087A3F6 /* Controller */,
+				E90E8F682457F6340087A3F6 /* Model */,
 				E90E8F382457F5AE0087A3F6 /* AppDelegate.swift */,
 				E90E8F3A2457F5AE0087A3F6 /* SceneDelegate.swift */,
 				E90E8F3C2457F5AE0087A3F6 /* ViewController.swift */,
-				E90E8F3E2457F5AE0087A3F6 /* Main.storyboard */,
 				E90E8F412457F5B20087A3F6 /* Assets.xcassets */,
 				E90E8F432457F5B20087A3F6 /* LaunchScreen.storyboard */,
 				E90E8F462457F5B20087A3F6 /* Info.plist */,
@@ -126,6 +184,85 @@
 				E90E8F5C2457F5B20087A3F6 /* Info.plist */,
 			);
 			path = NeoSTORE_MehulUITests;
+			sourceTree = "<group>";
+		};
+		E90E8F682457F6340087A3F6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E90E8FA32457FF650087A3F6 /* LoginModel.swift */,
+				E90E8FA52457FF730087A3F6 /* RegisterModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E90E8F692457F6440087A3F6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E90E8F972457F8280087A3F6 /* Login */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E90E8F6A2457F6CF0087A3F6 /* IBDesignable */ = {
+			isa = PBXGroup;
+			children = (
+				E90E8F6B2457F6FD0087A3F6 /* CustomTextField.swift */,
+				E90E8F6D2457F7180087A3F6 /* CustomButton.swift */,
+				E90E8F6F2457F7300087A3F6 /* CustomDatePicker.swift */,
+			);
+			path = IBDesignable;
+			sourceTree = "<group>";
+		};
+		E90E8F712457F74A0087A3F6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E90E8F722457F7530087A3F6 /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E90E8F722457F7530087A3F6 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				E90E8F742457F76F0087A3F6 /* GOTHAM-BLACK.TTF */,
+				E90E8F812457F7700087A3F6 /* GOTHAM-BLACKITALIC.TTF */,
+				E90E8F7E2457F7700087A3F6 /* GOTHAM-BOLD_0.OTF */,
+				E90E8F802457F7700087A3F6 /* GOTHAM-BOLD.TTF */,
+				E90E8F762457F76F0087A3F6 /* GOTHAM-BOLDITALIC.TTF */,
+				E90E8F7A2457F7700087A3F6 /* Gotham-Book.otf */,
+				E90E8F752457F76F0087A3F6 /* GOTHAM-BOOKITALIC_0.OTF */,
+				E90E8F732457F76F0087A3F6 /* GOTHAM-LIGHT_0.OTF */,
+				E90E8F832457F7700087A3F6 /* GOTHAM-LIGHT.TTF */,
+				E90E8F7F2457F7700087A3F6 /* GOTHAM-LIGHTITALIC.TTF */,
+				E90E8F792457F7700087A3F6 /* GOTHAM-MEDIUM.TTF */,
+				E90E8F7C2457F7700087A3F6 /* GOTHAM-MEDIUMITALIC.TTF */,
+				E90E8F842457F7710087A3F6 /* GOTHAM-THIN.TTF */,
+				E90E8F7B2457F7700087A3F6 /* GOTHAM-THINITALIC.TTF */,
+				E90E8F772457F7700087A3F6 /* GOTHAM-ULTRA.TTF */,
+				E90E8F782457F7700087A3F6 /* GOTHAM-ULTRAITALIC.TTF */,
+				E90E8F7D2457F7700087A3F6 /* GOTHAM-XLIGHT.TTF */,
+				E90E8F822457F7700087A3F6 /* GOTHAM-XLIGHTITALIC.TTF */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		E90E8F972457F8280087A3F6 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				E90E8F982457F8390087A3F6 /* LoginViewController.swift */,
+				E90E8F992457F8390087A3F6 /* LoginViewController.xib */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		E90E8F9C2457FA450087A3F6 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				E90E8F9D2457FA800087A3F6 /* APIMethods.swift */,
+				E90E8F9F2457FA900087A3F6 /* APIServiceKeys.swift */,
+				E90E8FA12457FACD0087A3F6 /* Validation.swift */,
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,8 +370,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				E90E8F452457F5B20087A3F6 /* LaunchScreen.storyboard in Resources */,
+				E90E8F892457F7710087A3F6 /* GOTHAM-ULTRA.TTF in Resources */,
+				E90E8F882457F7710087A3F6 /* GOTHAM-BOLDITALIC.TTF in Resources */,
+				E90E8F8D2457F7710087A3F6 /* GOTHAM-THINITALIC.TTF in Resources */,
+				E90E8F872457F7710087A3F6 /* GOTHAM-BOOKITALIC_0.OTF in Resources */,
+				E90E8F9B2457F8390087A3F6 /* LoginViewController.xib in Resources */,
+				E90E8F852457F7710087A3F6 /* GOTHAM-LIGHT_0.OTF in Resources */,
+				E90E8F942457F7710087A3F6 /* GOTHAM-XLIGHTITALIC.TTF in Resources */,
+				E90E8F932457F7710087A3F6 /* GOTHAM-BLACKITALIC.TTF in Resources */,
+				E90E8F922457F7710087A3F6 /* GOTHAM-BOLD.TTF in Resources */,
+				E90E8F8F2457F7710087A3F6 /* GOTHAM-XLIGHT.TTF in Resources */,
 				E90E8F422457F5B20087A3F6 /* Assets.xcassets in Resources */,
-				E90E8F402457F5AE0087A3F6 /* Main.storyboard in Resources */,
+				E90E8F902457F7710087A3F6 /* GOTHAM-BOLD_0.OTF in Resources */,
+				E90E8F8E2457F7710087A3F6 /* GOTHAM-MEDIUMITALIC.TTF in Resources */,
+				E90E8F952457F7710087A3F6 /* GOTHAM-LIGHT.TTF in Resources */,
+				E90E8F8C2457F7710087A3F6 /* Gotham-Book.otf in Resources */,
+				E90E8F862457F7710087A3F6 /* GOTHAM-BLACK.TTF in Resources */,
+				E90E8F8A2457F7710087A3F6 /* GOTHAM-ULTRAITALIC.TTF in Resources */,
+				E90E8F912457F7710087A3F6 /* GOTHAM-LIGHTITALIC.TTF in Resources */,
+				E90E8F962457F7710087A3F6 /* GOTHAM-THIN.TTF in Resources */,
+				E90E8F8B2457F7710087A3F6 /* GOTHAM-MEDIUM.TTF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,9 +414,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E90E8F9A2457F8390087A3F6 /* LoginViewController.swift in Sources */,
+				E90E8F9E2457FA800087A3F6 /* APIMethods.swift in Sources */,
+				E90E8F6C2457F6FD0087A3F6 /* CustomTextField.swift in Sources */,
+				E90E8FA42457FF650087A3F6 /* LoginModel.swift in Sources */,
 				E90E8F3D2457F5AE0087A3F6 /* ViewController.swift in Sources */,
+				E90E8F702457F7300087A3F6 /* CustomDatePicker.swift in Sources */,
 				E90E8F392457F5AE0087A3F6 /* AppDelegate.swift in Sources */,
+				E90E8FA02457FA900087A3F6 /* APIServiceKeys.swift in Sources */,
+				E90E8FA62457FF730087A3F6 /* RegisterModel.swift in Sources */,
 				E90E8F3B2457F5AE0087A3F6 /* SceneDelegate.swift in Sources */,
+				E90E8FA22457FACD0087A3F6 /* Validation.swift in Sources */,
+				E90E8F6E2457F7180087A3F6 /* CustomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,14 +461,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		E90E8F3E2457F5AE0087A3F6 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E90E8F3F2457F5AE0087A3F6 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		E90E8F432457F5B20087A3F6 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (

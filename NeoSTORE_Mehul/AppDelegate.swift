@@ -8,14 +8,24 @@
 
 import UIKit
 
+
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
+    var window: UIWindow?
+    var navigationController: UINavigationController?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        return true
+        window = UIWindow(frame: UIScreen.main.bounds)
+        //        UIApplication.shared.statusBarStyle = .lightContent
+                let nav = UINavigationController(rootViewController: LoginViewController.loadFromNib())
+        //        let loginView = LoginView()
+                window!.rootViewController = nav
+                window!.makeKeyAndVisible()
+                
+                return true
     }
 
     // MARK: UISceneSession Lifecycle

@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "650cd58be6fbd6f57084ca9779fea3d2"
+build_time: [1588054005, 113259000]
+inputs:
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/Controller/Login/LoginViewController.swift": [1588052439, 295100162]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/Utilities/APIMethods.swift": [1588052786, 485946580]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/IBDesignable/CustomTextField.swift": [1588051852, 580446711]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/Model/LoginModel.swift": [1588053989, 276375853]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/ViewController.swift": [1588051502, 176328468]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/IBDesignable/CustomDatePicker.swift": [1588051896, 740160454]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/AppDelegate.swift": [1588052691, 581314242]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/Utilities/APIServiceKeys.swift": [1588052768, 53451127]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/Model/RegisterModel.swift": [9223372036, 854775807]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/SceneDelegate.swift": [1588052309, 65763773]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/Utilities/Validation.swift": [1588052833, 553634082]
+  "/Users/webwerks/NeoSTORE_Mehul/NeoSTORE_Mehul/IBDesignable/CustomButton.swift": [1588051874, 728929917]
